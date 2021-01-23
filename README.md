@@ -19,8 +19,6 @@ In this repo I have uploaded the modified train and test csv files.
 
 ## THE APPROACH
 
-The approach is discussed in brief here : https://medium.com/@shubhankarrawatsam.1999/airplanes-detection-for-satellite-using-faster-rcnn-d307d58353f1
-
 Faster RCNN is one of the best object detection methods available till date.
 Being an advanced version of RCNN, FRCNN gives one of the best results in less time.
 
